@@ -15,4 +15,11 @@ body {
 .nav-link:hover {
   font-weight: 700; /* Aumenta ligeramente el tamaño al pasar el mouse */
 }
+/* agregado Ramon */
 
+article {
+  font-family: fantasy;
+}
+.container-fluid {
+  background-color: #F2F2F2
+}

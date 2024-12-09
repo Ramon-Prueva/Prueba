@@ -20,10 +20,21 @@
 .nav-link:hover {
   font-weight: 700; /* Aumenta ligeramente el tamaño al pasar el mouse */
 }
-/*
+
+
+/* agregado Ramon 
+gif en inicio
+comentarios falsos dando testimonios
+*/
+
 .container-fluid {
   background-color: #F2F2F2
 }
 
-camvia esto.....
-*/
+.txt {
+  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+/**  
+.h1 {
+  font-family: fantasy;
+}
